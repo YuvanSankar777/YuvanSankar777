@@ -49,7 +49,6 @@
 |---------|-------------|------|
 | [VideoMind](https://github.com/YuvanSankar777/endee/tree/master/videomind) | YouTube video Q&A with RAG + timestamp citations | Python, Endee, Gemini, Streamlit |
 | [eco-pack-ai](https://github.com/YuvanSankar777/eco-pack-ai) | AI-powered sustainable packaging solution | Jupyter, Python |
-| [neetcode_practice](https://github.com/YuvanSankar777/neetcode_practice) | DSA problem solutions | Java |
 
 ---
 
