@@ -58,15 +58,15 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777) · `Python`  
+- [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
+- [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python`  
+  Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
 - [**yuvansankar777.github.io**](https://github.com/YuvanSankar777/yuvansankar777.github.io) · `TypeScript`  
   —
 - [**CodeGenAgent**](https://github.com/YuvanSankar777/CodeGenAgent) · `TypeScript`  
   —
 - [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
-  —
-- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -78,8 +78,8 @@
 | --- | --- |
 <!--STATS-->
 | ⭐ Total stars | **0** |
-| 📦 Public repos | **8** |
-| 🧑‍💻 Commits (this year) | **13** |
+| 📦 Public repos | **9** |
+| 🧑‍💻 Commits (this year) | **16** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 <!--END_STATS-->
@@ -94,9 +94,9 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`Python          ` `██████░░░░░░░░░░░░░░`  29.8%
-`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.8%
-`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.8%
+`Python          ` `██████░░░░░░░░░░░░░░`  30.1%
+`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.7%
+`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.7%
 `Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.5%
 `CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.8%
 `HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.2%
@@ -115,5 +115,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-14 11:42 UTC
+⚙️ Last auto-updated: 2026-07-14 12:11 UTC
 <!--END_TIMESTAMP--></sub></div>
