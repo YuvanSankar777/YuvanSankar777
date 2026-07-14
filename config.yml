@@ -1,0 +1,22 @@
+# ─────────────────────────────────────────────────────────────
+# Config for the self-updating README. Edit this, not the Python.
+# ─────────────────────────────────────────────────────────────
+
+# "auto" detects the repo owner automatically. Only set a name to
+# generate someone else's stats.
+username: auto
+
+sections:
+  recent_repos:
+    enabled: true
+    limit: 5
+  stats:
+    enabled: true
+  top_languages:
+    enabled: true
+    limit: 6
+  blog:
+    enabled: false
+    rss_url: ""   # e.g. https://dev.to/feed/yourusername
+  timestamp:
+    enabled: true
