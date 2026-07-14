@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - "README.template.md"
+      - "scripts/update_readme.py"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: YuvanSankar777
+          # BLOG_RSS_URL: https://dev.to/feed/yourusername
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update README [skip ci]"
+          file_pattern: README.md
