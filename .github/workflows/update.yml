@@ -14,6 +14,12 @@ on:
 permissions:
   contents: write
 
+# Never let two runs push at once — a second run would collide on a
+# non-fast-forward push. Newer run waits for the in-flight one to finish.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
