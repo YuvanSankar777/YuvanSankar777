@@ -58,6 +58,8 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777) · `Python`  
+  Profile README
 - [**yuvansankar777.github.io**](https://github.com/YuvanSankar777/yuvansankar777.github.io) · `TypeScript`  
   —
 - [**CodeGenAgent**](https://github.com/YuvanSankar777/CodeGenAgent) · `TypeScript`  
@@ -66,8 +68,6 @@
   —
 - [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
   —
-- [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
-  Profile README
 <!--END_RECENT_REPOS-->
 
 ---
@@ -78,7 +78,7 @@
 | --- | --- |
 <!--STATS-->
 | ⭐ Total stars | **0** |
-| 📦 Public repos | **9** |
+| 📦 Public repos | **8** |
 | 🧑‍💻 Commits (this year) | **12** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
@@ -94,12 +94,12 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.7%
-`Python          ` `██████░░░░░░░░░░░░░░`  29.2%
+`Python          ` `██████░░░░░░░░░░░░░░`  29.8%
+`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.8%
 `TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.8%
 `Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.5%
 `CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.8%
-`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   7.0%
+`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.2%
 <!--END_TOP_LANGS-->
 
 ---
@@ -115,5 +115,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-14 11:35 UTC
+⚙️ Last auto-updated: 2026-07-14 11:40 UTC
 <!--END_TIMESTAMP--></sub></div>
