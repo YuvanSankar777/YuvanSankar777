@@ -74,31 +74,28 @@
 
 ### 📊 Live GitHub Stats
 
+<!--STATS-->
+
 | Metric | Value |
 | --- | --- |
-<!--STATS-->
 | ⭐ Total stars | **2** |
 | 📦 Public repos | **9** |
-| 🧑‍💻 Commits (this year) | **15** |
+| 🧑‍💻 Commits (this year) | **18** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
-<!--END_STATS-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvanSankar777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<!--END_STATS-->
 
 ---
 
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`Python          ` `██████░░░░░░░░░░░░░░`  30.1%
-`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.7%
-`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.7%
-`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.5%
-`CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.8%
+`Python          ` `██████░░░░░░░░░░░░░░`  30.2%  
+`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.7%  
+`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.7%  
+`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.5%  
+`CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.8%  
 `HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.2%
 <!--END_TOP_LANGS-->
 
@@ -115,5 +112,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-20 14:13 UTC
+⚙️ Last auto-updated: 2026-07-20 18:00 UTC
 <!--END_TIMESTAMP--></sub></div>
