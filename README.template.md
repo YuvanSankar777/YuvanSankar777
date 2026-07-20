@@ -67,6 +67,12 @@
 <!--STATS-->
 <!--END_STATS-->
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true" alt="GitHub Streak — total contributions, current streak, longest streak" />
+</p>
+
 ---
 
 ### 🧑‍💻 Most Used Languages
