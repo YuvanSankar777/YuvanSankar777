@@ -60,10 +60,10 @@
 <!--RECENT_REPOS-->
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
-- [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
-  —
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 2  
   Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
+- [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
+  —
 - [**yuvansankar777.github.io**](https://github.com/YuvanSankar777/yuvansankar777.github.io) · `TypeScript`  
   —
 - [**CodeGenAgent**](https://github.com/YuvanSankar777/CodeGenAgent) · `TypeScript`  
@@ -88,9 +88,13 @@
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true&card_width=450&disable_animations=true" alt="GitHub Streak — total contributions, current streak, longest streak" />
-</p>
+<!--STREAK-->
+
+| 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
+| :---: | :---: | :---: |
+| **1 days** | **2 days** | **35** |
+
+<!--END_STREAK-->
 
 ---
 
@@ -118,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-20 18:41 UTC
+⚙️ Last auto-updated: 2026-07-20 19:07 UTC
 <!--END_TIMESTAMP--></sub></div>
