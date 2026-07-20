@@ -89,7 +89,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak — total contributions, current streak, longest streak" />
+  <img src="https://streak-stats.demolab.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true&card_width=450&disable_animations=true" alt="GitHub Streak — total contributions, current streak, longest streak" />
 </p>
 
 ---
@@ -118,5 +118,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-20 18:35 UTC
+⚙️ Last auto-updated: 2026-07-20 18:41 UTC
 <!--END_TIMESTAMP--></sub></div>
