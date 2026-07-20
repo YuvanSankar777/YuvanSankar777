@@ -80,11 +80,17 @@
 | --- | --- |
 | ⭐ Total stars | **2** |
 | 📦 Public repos | **9** |
-| 🧑‍💻 Commits (this year) | **18** |
+| 🧑‍💻 Commits (this year) | **19** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
 <!--END_STATS-->
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YuvanSankar777&theme=tokyonight&hide_border=true" alt="GitHub Streak — total contributions, current streak, longest streak" />
+</p>
 
 ---
 
@@ -112,5 +118,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-20 18:00 UTC
+⚙️ Last auto-updated: 2026-07-20 18:27 UTC
 <!--END_TIMESTAMP--></sub></div>
