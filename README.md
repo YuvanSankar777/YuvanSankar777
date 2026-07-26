@@ -58,6 +58,8 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
+  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 3  
@@ -65,8 +67,6 @@
 - [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
   —
 - [**yuvansankar777.github.io**](https://github.com/YuvanSankar777/yuvansankar777.github.io) · `TypeScript`  
-  —
-- [**CodeGenAgent**](https://github.com/YuvanSankar777/CodeGenAgent) · `TypeScript`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -80,7 +80,7 @@
 | --- | --- |
 | ⭐ Total stars | **3** |
 | 📦 Public repos | **9** |
-| 🧑‍💻 Commits (this year) | **36** |
+| 🧑‍💻 Commits (this year) | **43** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -92,7 +92,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **2 days** | **44** |
+| **1 day** | **2 days** | **51** |
 
 <!--END_STREAK-->
 
@@ -101,12 +101,12 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`Python          ` `██████░░░░░░░░░░░░░░`  30.4%  
-`JavaScript      ` `██████░░░░░░░░░░░░░░`  29.6%  
-`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  13.7%  
-`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.5%  
-`CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.8%  
-`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.2%
+`Python          ` `██████░░░░░░░░░░░░░░`  31.6%  
+`JavaScript      ` `█████░░░░░░░░░░░░░░░`  26.2%  
+`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  14.0%  
+`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.7%  
+`CSS             ` `██░░░░░░░░░░░░░░░░░░`  10.0%  
+`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.3%
 <!--END_TOP_LANGS-->
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-26 13:36 UTC
+⚙️ Last auto-updated: 2026-07-26 19:16 UTC
 <!--END_TIMESTAMP--></sub></div>
