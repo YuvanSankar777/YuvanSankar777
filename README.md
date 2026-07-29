@@ -58,10 +58,10 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
-  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
+- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
+  —
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 3  
   Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
 - [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-29 14:18 UTC
+⚙️ Last auto-updated: 2026-07-29 19:21 UTC
 <!--END_TIMESTAMP--></sub></div>
