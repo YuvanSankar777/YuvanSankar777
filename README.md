@@ -58,6 +58,8 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
+  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
 - [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
@@ -65,8 +67,6 @@
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 3  
   Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
 - [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
-  —
-- [**yuvansankar777.github.io**](https://github.com/YuvanSankar777/yuvansankar777.github.io) · `TypeScript`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -79,7 +79,7 @@
 | Metric | Value |
 | --- | --- |
 | ⭐ Total stars | **3** |
-| 📦 Public repos | **9** |
+| 📦 Public repos | **10** |
 | 🧑‍💻 Commits (this year) | **45** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
@@ -92,7 +92,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **2 days** | **53** |
+| **1 day** | **2 days** | **54** |
 
 <!--END_STREAK-->
 
@@ -101,12 +101,12 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`Python          ` `██████░░░░░░░░░░░░░░`  32.1%  
-`JavaScript      ` `█████░░░░░░░░░░░░░░░`  26.0%  
-`TypeScript      ` `███░░░░░░░░░░░░░░░░░`  14.0%  
-`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`  10.7%  
-`CSS             ` `██░░░░░░░░░░░░░░░░░░`  10.0%  
-`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   6.3%
+`TypeScript      ` `███████░░░░░░░░░░░░░`  32.8%  
+`Python          ` `█████░░░░░░░░░░░░░░░`  24.8%  
+`JavaScript      ` `████░░░░░░░░░░░░░░░░`  20.1%  
+`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`   8.3%  
+`CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.2%  
+`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   4.9%
 <!--END_TOP_LANGS-->
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-02 08:28 UTC
+⚙️ Last auto-updated: 2026-08-02 13:35 UTC
 <!--END_TIMESTAMP--></sub></div>
