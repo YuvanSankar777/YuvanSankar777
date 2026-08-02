@@ -58,10 +58,10 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
-  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
+- [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
+  —
 - [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
   —
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 3  
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-02 13:35 UTC
+⚙️ Last auto-updated: 2026-08-02 19:15 UTC
 <!--END_TIMESTAMP--></sub></div>
