@@ -64,7 +64,7 @@
   —
 - [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
   —
-- [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 3  
+- [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 4  
   Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
 - [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
   —
@@ -78,7 +78,7 @@
 
 | Metric | Value |
 | --- | --- |
-| ⭐ Total stars | **3** |
+| ⭐ Total stars | **4** |
 | 📦 Public repos | **10** |
 | 🧑‍💻 Commits (this year) | **45** |
 | 🔀 Pull requests (this year) | **0** |
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-06 08:42 UTC
+⚙️ Last auto-updated: 2026-08-06 14:20 UTC
 <!--END_TIMESTAMP--></sub></div>
