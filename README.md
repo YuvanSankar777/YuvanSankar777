@@ -58,6 +58,8 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
+  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
 - [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
@@ -66,8 +68,6 @@
   —
 - [**readme-updater**](https://github.com/YuvanSankar777/readme-updater) · `Python` · ⭐ 4  
   Turn your GitHub profile README into a self-updating dashboard — live repos, stats & languages via a scheduled Action.
-- [**eco-pack-ai**](https://github.com/YuvanSankar777/eco-pack-ai) · `Jupyter Notebook`  
-  —
 <!--END_RECENT_REPOS-->
 
 ---
@@ -79,7 +79,7 @@
 | Metric | Value |
 | --- | --- |
 | ⭐ Total stars | **4** |
-| 📦 Public repos | **10** |
+| 📦 Public repos | **11** |
 | 🧑‍💻 Commits (this year) | **45** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
@@ -92,7 +92,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **2 days** | **54** |
+| **1 day** | **2 days** | **55** |
 
 <!--END_STREAK-->
 
@@ -101,12 +101,12 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`TypeScript      ` `███████░░░░░░░░░░░░░`  32.8%  
-`Python          ` `█████░░░░░░░░░░░░░░░`  24.8%  
-`JavaScript      ` `████░░░░░░░░░░░░░░░░`  20.1%  
-`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`   8.3%  
-`CSS             ` `██░░░░░░░░░░░░░░░░░░`   8.2%  
-`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   4.9%
+`TypeScript      ` `████████░░░░░░░░░░░░`  38.0%  
+`Python          ` `█████░░░░░░░░░░░░░░░`  22.8%  
+`JavaScript      ` `████░░░░░░░░░░░░░░░░`  18.5%  
+`CSS             ` `██░░░░░░░░░░░░░░░░░░`   7.7%  
+`Jupyter Notebook` `██░░░░░░░░░░░░░░░░░░`   7.6%  
+`HTML            ` `█░░░░░░░░░░░░░░░░░░░`   4.5%
 <!--END_TOP_LANGS-->
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-09 01:58 UTC
+⚙️ Last auto-updated: 2026-08-09 07:01 UTC
 <!--END_TIMESTAMP--></sub></div>
