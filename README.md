@@ -58,10 +58,10 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**Leetcode**](https://github.com/YuvanSankar777/Leetcode) · `Java`  
-  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
+- [**Leetcode**](https://github.com/YuvanSankar777/Leetcode) · `Java`  
+  —
 - [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
   —
 - [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-11 19:05 UTC
+⚙️ Last auto-updated: 2026-08-12 02:11 UTC
 <!--END_TIMESTAMP--></sub></div>
