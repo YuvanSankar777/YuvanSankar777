@@ -58,11 +58,11 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
+  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
 - [**Leetcode**](https://github.com/YuvanSankar777/Leetcode) · `Java`  
-  —
-- [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
   —
 - [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
   —
@@ -101,7 +101,7 @@
 ### 🧑‍💻 Most Used Languages
 
 <!--TOP_LANGS-->
-`TypeScript      ` `████████░░░░░░░░░░░░`  37.9%  
+`TypeScript      ` `████████░░░░░░░░░░░░`  38.0%  
 `Python          ` `█████░░░░░░░░░░░░░░░`  22.7%  
 `JavaScript      ` `████░░░░░░░░░░░░░░░░`  18.4%  
 `CSS             ` `██░░░░░░░░░░░░░░░░░░`   7.7%  
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-22 12:44 UTC
+⚙️ Last auto-updated: 2026-08-22 18:34 UTC
 <!--END_TIMESTAMP--></sub></div>
