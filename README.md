@@ -58,6 +58,8 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
+  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
 - [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
@@ -65,8 +67,6 @@
 - [**Leetcode**](https://github.com/YuvanSankar777/Leetcode) · `Java`  
   —
 - [**HireSense**](https://github.com/YuvanSankar777/HireSense) · `TypeScript`  
-  —
-- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -80,7 +80,7 @@
 | --- | --- |
 | ⭐ Total stars | **4** |
 | 📦 Public repos | **12** |
-| 🧑‍💻 Commits (this year) | **52** |
+| 🧑‍💻 Commits (this year) | **53** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **1** |
 
@@ -92,7 +92,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **2 days** | **63** |
+| **1 day** | **2 days** | **64** |
 
 <!--END_STREAK-->
 
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-24 12:56 UTC
+⚙️ Last auto-updated: 2026-08-24 18:44 UTC
 <!--END_TIMESTAMP--></sub></div>
