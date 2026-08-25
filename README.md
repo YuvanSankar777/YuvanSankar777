@@ -58,10 +58,10 @@
 <sub>⚙️ Auto-updated every 6 hours by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
-  —
 - [**YuvanSankar777**](https://github.com/YuvanSankar777/YuvanSankar777)  
   Profile README
+- [**CrackItNow**](https://github.com/YuvanSankar777/CrackItNow) · `JavaScript`  
+  —
 - [**GitStand**](https://github.com/YuvanSankar777/GitStand) · `TypeScript`  
   —
 - [**Leetcode**](https://github.com/YuvanSankar777/Leetcode) · `Java`  
@@ -122,5 +122,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-24 18:44 UTC
+⚙️ Last auto-updated: 2026-08-25 01:24 UTC
 <!--END_TIMESTAMP--></sub></div>
